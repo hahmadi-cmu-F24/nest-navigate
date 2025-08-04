@@ -1,4 +1,30 @@
-# Getting Started with Create React App
+1. Project description
+
+  React-based learning module for Nest Navigate, a gamified learning platform for first-time homebuyers.
+   
+2. Setup instructions
+
+  Below
+
+3. Technology stack used
+
+  React, TypeScript, Tailwind, Bootstrap, localstorage
+
+4. Any assumptions or design decisions made
+
+  components page for maximum reusability
+  route params for page reusability (lessons page)
+  header and footer in App.tsx page to reduce extra re-rendering
+  coin animation and sound on correct answer
+  expand on hover and shake on click on home page'
+  checkmark to show lessons completed (module progress)
+  splash screen on startup
+  
+  note: I use Duolingo and kind of find all the individual reward screens annoying, so I wanted to do a same-screen animation to still show a joyful incentive, but without being in the user's face.
+
+5. Time spent on the project# Getting Started with Create React App
+ 
+  5 hours
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
