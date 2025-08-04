@@ -1,6 +1,5 @@
 1. Project description
   React-based learning module for Nest Navigate, a gamified learning platform for first-time homebuyers.
-
    
 2. Setup instructions
   Below
