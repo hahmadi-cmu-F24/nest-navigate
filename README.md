@@ -18,6 +18,7 @@
   coin animation and sound on correct answer
   expand on hover and shake on click on home page'
   checkmark to show lessons completed (module progress)
+  splash screen on startup
   
   note: I use Duolingo and kind of find all the individual reward screens annoying, so I wanted to do a same-screen animation to still show a joyful incentive, but without being in the user's face.
 
